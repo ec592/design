@@ -6,8 +6,6 @@ Welcome to Cornell Design and Tech Initiative's design repository and style guid
 
 ## Project Integration
 
-### Assets
-
 Download `Official Branding Assets.zip` for your project.
 
 ### Code
