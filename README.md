@@ -1,5 +1,7 @@
 # DTI x Design
 
+![logo](design/Official Branding Assets/Wordmark/Light Text/Background/Wordmark.png?raw=true "Title")
+
 Welcome to Cornell Design and Tech Initiative's design repository and style guide. You can download all branding assets here, as well as access font and color information.
 
 ## Project Integration
