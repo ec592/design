@@ -2,7 +2,7 @@
 
 ![logo](logo.png)
 
-Access on [Google Drive].(https://drive.google.com/drive/folders/0B9NekLUlNWzFMmMtVFE1RGx2RkU)
+Access on [Google Drive](https://drive.google.com/drive/folders/0B9NekLUlNWzFMmMtVFE1RGx2RkU).
 
 Welcome to Cornell Design and Tech Initiative's design repository and style guide. You can download all branding assets here, as well as access font and color information.
 
