@@ -12,20 +12,8 @@ Download `Official Branding Assets.zip` for your project. Or, clone this directo
 
 ## Colors
 
-=================
-=== Hex Codes ===
-=================
+**Brand Color: #FF324A**
 
-======
-Brand
-======
+**Dark Gray: #373737**
 
-Red		#FF324A
-
-======
-Icon
-======
-
-Dark Gray	#373737
-Light Gray	#6F6F6F
-
+**Light Gray:	#6F6F6F**
