@@ -12,8 +12,8 @@ Download `Official Branding Assets.zip` for your project. Or, clone this directo
 
 ## Colors
 
-**Brand Color: #FF324A**
+**Brand Color: `#FF324A`
 
-**Dark Gray: #373737**
+**Dark Gray: `#373737`
 
-**Light Gray:	#6F6F6F**
+**Light Gray:	`#6F6F6F`
