@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "layers": {
+    "vectorLayer": {
+      "id": "59",
+      "name": "vector",
+      "type": "vector",
+      "width": 800,
+      "height": 800,
+      "children": [
+        {
+          "id": "64",
+          "name": "c",
+          "type": "path",
+          "pathData": "M 613.6 577.6 C 562.5 633.8 488.4 669.2 405.9 669.2 C 251.9 669.2 127 545.9 127 393.9 C 127 241.9 251.9 118.6 405.9 118.6 C 492.1 118.6 569.2 157.2 620.4 217.9",
+          "strokeColor": "#ff324a",
+          "strokeWidth": 80
+        },
+        {
+          "id": "14148",
+          "name": "group_ruler",
+          "type": "group",
+          "children": [
+            {
+              "id": "5687",
+              "name": "mask_ruler",
+              "type": "mask",
+              "pathData": "M 436.299 276.116 L 439.976 279.793 L 411.692 308.077 L 408.015 304.4 Z"
+            },
+            {
+              "id": "60",
+              "name": "ruler",
+              "type": "path",
+              "pathData": "M 505.2 401.6 L 513.7 393.1 L 510.9 390.3 L 502.4 398.8 L 474.1 370.5 L 482.6 362 L 479.7 359.2 L 471.3 367.7 L 443 339.4 L 451.5 330.9 L 448.6 328.1 L 440.1 336.6 L 411.9 308.3 L 440.1 280 L 561.8 401.6 L 533.5 429.9 Z",
+              "fillColor": "#6f6f6f",
+              "strokeWidth": 1
+            }
+          ]
+        },
+        {
+          "id": "17383",
+          "name": "group_pencil",
+          "type": "group",
+          "children": [
+            {
+              "id": "8879",
+              "name": "mask_pencil",
+              "type": "mask",
+              "pathData": "M 401.09 239.79 L 403.565 237.315 L 431.849 265.599 L 429.374 268.074 Z"
+            },
+            {
+              "id": "61",
+              "name": "pencil_butt",
+              "type": "path",
+              "pathData": "M 386.675 254.138 L 400.817 239.996 L 429.101 268.281 L 414.959 282.423 Z",
+              "fillColor": "#6f6f6f",
+              "strokeWidth": 1
+            },
+            {
+              "id": "62",
+              "name": "pencil",
+              "type": "path",
+              "pathData": "M 270.709 370.128 L 381.018 259.82 L 409.302 288.104 L 298.994 398.412 Z",
+              "fillColor": "#6f6f6f",
+              "strokeWidth": 1
+            },
+            {
+              "id": "8496",
+              "name": "pencil_tip",
+              "type": "path",
+              "pathData": "M 258 411.1 L 265.1 375.8 L 293.4 404 Z",
+              "fillColor": "#6f6f6f",
+              "strokeWidth": 1
+            }
+          ]
+        },
+        {
+          "id": "17853",
+          "name": "group_stick",
+          "type": "group",
+          "children": [
+            {
+              "id": "17854",
+              "name": "mask_stick",
+              "type": "mask",
+              "pathData": "M 380.9 546 L 420.9 546 L 420.9 550.8 L 380.9 550.8 Z"
+            },
+            {
+              "id": "8536",
+              "name": "stick",
+              "type": "path",
+              "pathData": "M 400.9 366 C 411.9 366 420.9 375 420.9 386 L 420.9 526 C 420.9 537 411.9 546 400.9 546 C 389.9 546 380.9 537 380.9 526 L 380.9 386 C 380.9 375 389.8 366 400.9 366 Z",
+              "fillColor": "#6f6f6f",
+              "strokeWidth": 1
+            }
+          ]
+        }
+      ]
+    },
+    "hiddenLayerIds": []
+  },
+  "timeline": {
+    "animation": {
+      "id": "65",
+      "name": "anim",
+      "duration": 1000,
+      "blocks": [
+        {
+          "id": "66",
+          "layerId": "64",
+          "propertyName": "trimPathStart",
+          "startTime": 0,
+          "endTime": 500,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "number",
+          "fromValue": 1,
+          "toValue": 0
+        },
+        {
+          "id": "5689",
+          "layerId": "5687",
+          "propertyName": "pathData",
+          "startTime": 350,
+          "endTime": 1000,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 436.299 276.116 L 439.976 279.793 L 411.692 308.077 L 408.015 304.4 Z",
+          "toValue": "M 436.127 276.036 L 562.345 402.255 L 534.061 430.539 L 407.843 304.321 Z"
+        },
+        {
+          "id": "8888",
+          "layerId": "8879",
+          "propertyName": "pathData",
+          "startTime": 350,
+          "endTime": 1000,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 401.09 239.79 L 403.565 237.315 L 431.849 265.599 L 429.374 268.074 Z",
+          "toValue": "M 244.186 396.657 L 403.568 237.275 L 431.852 265.56 L 272.471 424.942 Z"
+        },
+        {
+          "id": "17863",
+          "layerId": "17854",
+          "propertyName": "pathData",
+          "startTime": 200,
+          "endTime": 700,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 380.9 546 L 420.9 546 L 420.9 550.8 L 380.9 550.8 Z",
+          "toValue": "M 380.9 366 L 420.9 366 L 420.9 550.8 L 380.9 550.8 Z"
+        }
+      ]
+    }
+  }
+}
