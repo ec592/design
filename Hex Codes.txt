@@ -12,7 +12,7 @@ Red		#FF324A
 
 
 ======
-Icon la la
+Icon
 ======
 
 Dark Gray	#373737
